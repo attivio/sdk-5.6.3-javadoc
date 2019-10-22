@@ -1,0 +1,1 @@
+/home/mmasi/.jenv/versions/11.0.3/bin/javadoc --no-module-directories @options @packages
